@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://novum-d.github.io/blog</id>
+    <title>novumd Blog</title>
+    <updated>2024-10-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://novum-d.github.io/blog"/>
+    <subtitle>novumd Blog</subtitle>
+    <icon>https://novum-d.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hoge]]></title>
+        <id>https://novum-d.github.io/blog/2024/10/24/hoge</id>
+        <link href="https://novum-d.github.io/blog/2024/10/24/hoge"/>
+        <updated>2024-10-24T00:00:00.000Z</updated>
+    </entry>
+</feed>
