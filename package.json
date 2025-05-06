@@ -22,7 +22,7 @@
     "clean": "rimraf blog/* blog-work/* src/data/* static/img/*"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.5.2",
+    "@docusaurus/core": "^3.7.0",
     "@docusaurus/plugin-content-blog": "^3.5.2",
     "@docusaurus/preset-classic": "^3.5.2",
     "@docusaurus/theme-common": "^3.5.2",

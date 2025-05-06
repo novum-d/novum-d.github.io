@@ -43,7 +43,7 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
           <div className="col col--5 col--offset-5">
             <PaginatorNavLink
               isNext
-              permalink="/blog/page/2"
+              permalink="/blog"
               title="Older Entries"
             />
           </div>
